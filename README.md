@@ -23,6 +23,7 @@
 
 # Neste projeto o Front End inteiro foi feito pela equipe da Rocketseat
 ## E eu fiz o Back End como um desafio pessoal, e está aí o resultado :)
+`O Back End está na pasta /src`
 
 ## 🚀 Tecnologias
 
