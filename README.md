@@ -21,17 +21,21 @@
   <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
 </p>
 
+# Neste projeto o Front End inteiro foi feito pela equipe da Rocketseat
+## E eu fiz o Back End como um desafio pessoal, e está aí o resultado :)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
-- NodeJS
-- EJS
-- Express
-- Mongo DB
+* HTML
+* CSS
+* JavaScript
+* NodeJS
+* EJS
+* Express
+* Mongo DB
+* Mongoose
 
 ## 💻 Projeto
 
